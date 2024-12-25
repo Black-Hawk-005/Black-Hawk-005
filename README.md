@@ -18,5 +18,5 @@ Feel free to reach out for collaborations or just a chat about AI, Data Science,
 ---
 
 ## 🌐 GitHub Stats
-
-![Visitor Count](https://profile-counter.glitch.me/{Black-Hawk-005}/count.svg)
+#### Profile views : 
+![](https://komarev.com/ghpvc/?username=Black-Hawk-005&style=for-the-badge)
