@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Prem Danasekaran!
+
+🎓 **B. Tech AI & DS Student** at **Shiv Nadar University, Chennai**  
 💡 Passionate about **Artificial Intelligence**, **Data Science**, and the **Automotive Industry**  
 🚗 Aspiring to contribute to the **Autonomous Vehicle Industry** (Self-Driving Cars)  
 
