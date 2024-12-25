@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Prem Danasekaran!
 
-<!--
-**Black-Hawk-005/Black-Hawk-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B. Tech AI & DS Student** at **Shiv Nadar University, Chennai**  
+💡 Passionate about **Artificial Intelligence**, **Data Science**, and the **Automotive Industry**  
+🚗 Aspiring to contribute to the **Autonomous Vehicle Industry** (Self-Driving Cars)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming Languages:** Python, C, C++, Java  
+- **Hobbies:** Always curious and love learning new things! 🌟
+
+---
+
+## 🌟 Connect with Me
+Feel free to reach out for collaborations or just a chat about AI, Data Science, or Cars!
+
+- [LinkedIn](https://www.linkedin.com/in/prem-danasekaran-654a33290/)  
+- [X](https://x.com/Prem91178399)
+- [Email](premdanasekaran@gmail.com)
+
+---
+
+## 🌐 GitHub Stats
+
+![Visitor Count](https://profile-counter.glitch.me/{Black-Hawk-005}/count.svg)
