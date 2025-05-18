@@ -7,7 +7,7 @@
 ---
 
 ### I code in
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,html,css,flask,firebase,mysql)](https://skillicons.dev)
 ---
 
 ## 🌟 Connect with Me
