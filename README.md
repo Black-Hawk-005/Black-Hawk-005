@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-Hawk-005&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 </div>
 
+![GitHub](https://komarev.com/ghpvc/?username=Black-Hawk-005&style=for-the-badge&color=blue)
 ---
 
 ### 🤝 Let's Connect!
